@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alp12arslan
-- 👀 I’m interested in pyhton
+- 👀 I’m interested in Pyhton
 - 🌱 I’m currently learning Pyhton
 
 <!---
